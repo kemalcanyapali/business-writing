@@ -1,0 +1,28 @@
+<svg width="1200" height="420" viewBox="0 0 1200 420" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1200" height="420" rx="28" fill="#0B0F14"/>
+  <path d="M0 82H1200M0 164H1200M0 246H1200M0 328H1200" stroke="#1B2533"/>
+  <path d="M96 0V420M192 0V420M288 0V420M384 0V420M480 0V420M576 0V420M672 0V420M768 0V420M864 0V420M960 0V420M1056 0V420" stroke="#131B25"/>
+
+  <rect x="72" y="58" width="174" height="32" rx="16" fill="#172133"/>
+  <circle cx="92" cy="74" r="5" fill="#78A6FF"/>
+  <text x="108" y="79" fill="#AFC9FF" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="700" letter-spacing="1.4">AGENT SKILL</text>
+
+  <text x="72" y="152" fill="#F6F8FB" font-family="Arial, Helvetica, sans-serif" font-size="55" font-weight="700">Structure the thinking.</text>
+  <text x="72" y="218" fill="#F6F8FB" font-family="Arial, Helvetica, sans-serif" font-size="55" font-weight="700">Lead with the answer.</text>
+  <text x="72" y="284" fill="#78A6FF" font-family="Arial, Helvetica, sans-serif" font-size="55" font-weight="700">Make the logic visible.</text>
+  <text x="74" y="343" fill="#8B98AA" font-family="Arial, Helvetica, sans-serif" font-size="20">Independent Minto-based business writing for AI agents.</text>
+
+  <g transform="translate(894 63)">
+    <rect width="234" height="294" rx="18" fill="#111924" stroke="#2A3A50" stroke-width="2"/>
+    <rect x="28" y="30" width="108" height="11" rx="5.5" fill="#78A6FF"/>
+    <rect x="28" y="61" width="177" height="8" rx="4" fill="#DCE5F2"/>
+    <rect x="28" y="81" width="151" height="8" rx="4" fill="#53647A"/>
+    <rect x="28" y="116" width="177" height="1" fill="#2A3A50"/>
+    <rect x="28" y="145" width="132" height="8" rx="4" fill="#DCE5F2"/>
+    <rect x="28" y="165" width="177" height="8" rx="4" fill="#53647A"/>
+    <rect x="28" y="185" width="158" height="8" rx="4" fill="#53647A"/>
+    <rect x="28" y="219" width="178" height="45" rx="9" fill="#172C4D" stroke="#315A98"/>
+    <path d="M48 242H177" stroke="#78A6FF" stroke-width="4" stroke-linecap="round"/>
+    <path d="M168 234L178 242L168 250" stroke="#78A6FF" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+  </g>
+</svg>

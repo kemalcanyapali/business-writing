@@ -1,0 +1,35 @@
+{
+  "name": "business-writing",
+  "owner": {
+    "name": "Kemalcan Yapali",
+    "url": "https://github.com/kemalcanyapali"
+  },
+  "metadata": {
+    "description": "Minto-based, top-down business writing and problem-structuring for Claude Code."
+  },
+  "plugins": [
+    {
+      "name": "business-writing",
+      "source": "./",
+      "description": "Applies Barbara Minto's Pyramid Principle to emails, memos, proposals, reports, decisions, and presentations.",
+      "version": "2.0.0",
+      "author": {
+        "name": "Kemalcan Yapali",
+        "url": "https://github.com/kemalcanyapali"
+      },
+      "homepage": "https://github.com/kemalcanyapali/business-writing",
+      "repository": "https://github.com/kemalcanyapali/business-writing",
+      "license": "MIT",
+      "keywords": [
+        "business-writing",
+        "professional-communication",
+        "pyramid-principle",
+        "scqa",
+        "email",
+        "memo",
+        "proposal",
+        "executive-summary"
+      ]
+    }
+  ]
+}
