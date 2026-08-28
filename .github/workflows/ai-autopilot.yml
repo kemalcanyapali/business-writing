@@ -19,6 +19,6 @@ jobs:
       contents: write
       issues: write
       pull-requests: write
-    uses: kemalcanyapali/ai-safe-autopilot/.github/workflows/safe-autopilot.yml@v1.0.0
+    uses: kemalcanyapali/ai-safe-autopilot/.github/workflows/safe-autopilot.yml@v1.0.1
     secrets:
       token: ${{ secrets.GITHUB_TOKEN }}
